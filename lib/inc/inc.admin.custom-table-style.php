@@ -1,7 +1,8 @@
 <?php
-defined('fileaway') or die('Water, water everywhere, but not a drop to drink.');
-$output .= 
-'/***** YOUR TABLE STYLE *****/
+
+defined( 'fileaway' ) or die( 'Water, water everywhere, but not a drop to drink.' );
+$output .=
+    '/***** YOUR TABLE STYLE *****/
 table[id^="ssfa-table"].ssfa-yourtablestyle > tbody > tr > td.ssfa-sortdate,
 table[id^="ssfa-table"].ssfa-yourtablestyle > thead > tr > th.ssfa-sortdate {
 	width: 140px;

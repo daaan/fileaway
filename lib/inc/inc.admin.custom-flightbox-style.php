@@ -1,7 +1,8 @@
 <?php
-defined('fileaway') or die('Water, water everywhere, but not a drop to drink.');
-$output .= 
-'/***** YOUR FLIGHTBOX STYLE *****/
+
+defined( 'fileaway' ) or die( 'Water, water everywhere, but not a drop to drink.' );
+$output .=
+    '/***** YOUR FLIGHTBOX STYLE *****/
 div#ssfa-flightbox.ssfa-yourflightboxstyle{
 	background: #e2e2e2;
 	background: -moz-linear-gradient(45deg, #e2e2e2 0%, #e8e8e8 15%, #ededed 18%, #e0e0e0 21%, #808080 86%, #adadad 93%, #808080 97%, #7a7a7a 100%);

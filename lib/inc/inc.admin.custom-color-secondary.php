@@ -1,7 +1,8 @@
 <?php
-defined('fileaway') or die('Water, water everywhere, but not a drop to drink.');
-$output .=  
-'/* YOURCOLOR SECONDARY */
+
+defined( 'fileaway' ) or die( 'Water, water everywhere, but not a drop to drink.' );
+$output .=
+    '/* YOURCOLOR SECONDARY */
 /* 	Add any custom list classes here to hook them into your color,
 	adding a comma after each selector */
 div[id^="ssfa-list-wrap"].ssfa-silk a.accent-yourcolor:hover:before,

@@ -1,7 +1,8 @@
 <?php
-defined('fileaway') or die('Water, water everywhere, but not a drop to drink.');
-$output .=  
-'/* YOURCOLOR PRIMARY */
+
+defined( 'fileaway' ) or die( 'Water, water everywhere, but not a drop to drink.' );
+$output .=
+    '/* YOURCOLOR PRIMARY */
 /* 
 	Add any custom list classes here to hook them into your color, 
 	adding a comma after each selector.

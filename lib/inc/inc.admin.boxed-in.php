@@ -1,7 +1,8 @@
 <?php
-defined('fileaway') or die('Water, water everywhere, but not a drop to drink.');
-$output .=  
-'/***** BOXED-IN LIST STYLE *****/
+
+defined( 'fileaway' ) or die( 'Water, water everywhere, but not a drop to drink.' );
+$output .=
+    '/***** BOXED-IN LIST STYLE *****/
 div[id^="ssfa-list-wrap"].ssfa-boxed-in h3.ssfa-heading {
     margin: 0 55px 10px 10px;
 }
